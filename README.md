@@ -1,5 +1,7 @@
 # gomotw
 
+https://pkg.go.dev/std
+
 - archive
   - tar - implements access to tar archives.
   - zip - provides support for reading and writing ZIP archives.
